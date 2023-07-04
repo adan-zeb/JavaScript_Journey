@@ -7,7 +7,7 @@ const myString = 'hello world';
 // 3
 const firstNumber = 20;
 
-// 4 - notice how I have used `let` here.  We have to use this because we re-assign the value of this variable
+// 4 
 let secondNumber = 40;
 
 // 5
